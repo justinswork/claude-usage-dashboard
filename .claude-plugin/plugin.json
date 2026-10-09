@@ -1,0 +1,1 @@
+{ "name": "usage-panel", "version": "0.1.0", "description": "Live Claude Code usage and cost from ccusage in a pane", "author": { "name": "Justin King" }, "types": "./types/index.d.ts" }

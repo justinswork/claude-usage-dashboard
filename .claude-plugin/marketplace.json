@@ -1,0 +1,6 @@
+{
+  "name": "usage-panel",
+  "owner": { "name": "Justin King" },
+  "description": "Charts of Claude Code usage and cost from ccusage",
+  "plugins": [{ "name": "usage-panel", "source": "./" }]
+}
